@@ -3,6 +3,8 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      <a href="https://www.bbc.co.uk">BBC</a>
+      <router-link to="/about">AnotherPage</router-link>
     </div>
     <router-view/>
   </div>
